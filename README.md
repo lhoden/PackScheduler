@@ -1,5 +1,5 @@
 # PackScheduler
-Final lab export from CSC216
+Export for scheduling desktop application written in Java
 For GUI -- use:
 username: registrar
 password: Regi5tr@r
